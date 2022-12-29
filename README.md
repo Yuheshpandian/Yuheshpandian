@@ -34,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuheshpandian&" alt="yuheshpandian" /></p>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Yuheshpandian/PY-code_repo?color=%23056886&style=plastic">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Yuheshpandian?style=plastic">
