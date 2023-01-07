@@ -16,10 +16,9 @@
 # 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuheshpandian&label=Profile%20views&color=0e75b6&style=flat" alt="yuheshpandian" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuheshpandian&theme=radical" alt="yuheshpandian" /></a> </p>
+
 
 - 🔭 I’m currently working on **Mini projects**
 
@@ -39,13 +38,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
+### STATUS
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=radical" alt="yuheshpandian" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=radical" alt="yuheshpandian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuheshpandian&theme=radical" alt="yuheshpandian" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuheshpandian&theme=radical" alt="yuheshpandian" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuheshpandian&theme=radical" alt="yuheshpandian" /></a> </p>
+
+
+
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Yuheshpandian/PY-code_repo?color=%23056886&style=plastic">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Yuheshpandian?style=plastic">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Yuheshpandian/PY-code_repo?style=plastic">
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuheshpandian&label=Profile%20views&color=0e75b6&style=flat" alt="yuheshpandian" /> </p>
