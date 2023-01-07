@@ -37,11 +37,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact" alt="yuheshpandian" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en" alt="yuheshpandian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=radical" alt="yuheshpandian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuheshpandian&" alt="yuheshpandian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuheshpandian&theme=radical" alt="yuheshpandian" /></p>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Yuheshpandian/PY-code_repo?color=%23056886&style=plastic">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Yuheshpandian?style=plastic">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Yuheshpandian/PY-code_repo?style=plastic">
