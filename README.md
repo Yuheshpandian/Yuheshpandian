@@ -49,4 +49,5 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Yuheshpandian/PY-code_repo?color=%23056886&style=plastic">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Yuheshpandian?style=plastic">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Yuheshpandian/PY-code_repo?style=plastic">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Yuheshpandian?style=plastic">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuheshpandian&label=Profile%20views&color=0e75b6&style=flat" alt="yuheshpandian" /> </p>
