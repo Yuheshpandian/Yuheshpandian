@@ -3,11 +3,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 # In short
-- A entusiastic boy has intrest in learning about everything he get to know
-
-
-
-
+- A entusiastic boy has intrest in learning about everything he get to know with eager
 
 
 
