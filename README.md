@@ -1,4 +1,4 @@
-![banner](https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png)
+<img align='center' alt=banner width=2500 src='https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png'>
 <h1 align="center">Hi 👋, I'm Yuhesh pandian </h1>
 <h3 align="center">A passionate programmer from India</h3>
 
