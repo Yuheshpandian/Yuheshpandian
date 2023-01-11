@@ -47,6 +47,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img alt="img2" align="right" src="https://education.github.com/assets/experience/01/virtual-event-kit-icon-37a665f41a85865fe51a9db5c9b050f4bdc684d42b379e80688ec078e11a6114.png">
+
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Yuheshpandian/PY-code_repo?color=%23056886&style=plastic">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Yuheshpandian?style=plastic">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Yuheshpandian/PY-code_repo?style=plastic">
