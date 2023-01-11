@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I'm funny 😂**
 
+![IMG1](https://github.com/Yuheshpandian/Yuheshpandian/blob/a2acb30d171cc226a597a5e07ada89c4680cf201/programmer-icon.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/pandias coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pandia's coding" height="30" width="40" /></a>
