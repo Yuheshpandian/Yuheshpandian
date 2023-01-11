@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I'm funny 😂**
 
+- 👨‍💻 Aim to achieve in tech field
+
 <img align="right" alt="codingisfun" width= 450 src="https://github.com/Yuheshpandian/Yuheshpandian/blob/fea42208dde01e7ab3c38ed51e06ca16e4d306af/pngaaa.com-1523849.png">
 
 ![IMG1](https://github.com/Yuheshpandian/Yuheshpandian/blob/a2acb30d171cc226a597a5e07ada89c4680cf201/programmer-icon.png)
