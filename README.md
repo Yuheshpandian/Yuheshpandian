@@ -56,6 +56,8 @@ https://youtu.be/Nj-LBn3ziuI
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuheshpandian&theme=radical" alt="yuheshpandian" /></a> </p>
 
+[![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yuheshpandian&custom_title=YUHESH's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://Yuheshpandian.com/)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
