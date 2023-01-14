@@ -1,4 +1,9 @@
 <img align='center' alt=banner width=2500 src='https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png'>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HELLO+WORLD,;I'm+YUHESH+PANDIAN.;I+love+GITHUB.;I+love+learning.;I+like+spreading+my+talents.;&center=true&width=500&height=100"></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Yuhesh pandian </h1>
 <h3 align="center">A passionate programmer from India</h3>
 
@@ -50,6 +55,7 @@ https://youtu.be/Nj-LBn3ziuI
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuheshpandian&theme=radical" alt="yuheshpandian" /></a> </p>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
