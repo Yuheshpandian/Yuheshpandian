@@ -65,7 +65,7 @@ https://youtu.be/Nj-LBn3ziuI
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANKS+FOR+VISITING+😄;&size=30&center=true&width=500&height=100"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANKS+FOR+VISITING+😄;&color=#F3E1FF&size=30&center=true&width=500&height=100"></a>
 </p>
 
 
