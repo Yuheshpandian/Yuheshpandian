@@ -41,10 +41,17 @@
 MOST VIEWED YOUTUBE VIDEO:
 https://youtu.be/Nj-LBn3ziuI
 
-<h3 align="left">Languages and Tools:</h3>
+# LANGUAGES
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### STATUS
+# TOOLS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="left" width=40 height=40 />
+
+
+</br></br>
+
+
+# STATUS
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=radical" alt="yuheshpandian" /></p>
