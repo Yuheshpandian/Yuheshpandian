@@ -4,11 +4,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HELLO+WORLD,;I'm+YUHESH+PANDIAN.;I+love+GITHUB.;I+love+learning.;I+like+spreading+my+talents.;&size=30&center=true&width=500&height=100"></a>
 </p>
 
+
 <h1 align="center">Hi  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="60px" align="middle" /> , I'm Yuhesh pandian</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
  # In short 
-- A entusiastic boy has intrest in learning about everything he get to know with eager
+- A entusiastic boy 👦 has intrest in learning about everything he get to know with eager
 
 <img align="center" alt="Coding" width=700 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -24,23 +25,25 @@
 
 - 👨‍💻 Aim to achieve in tech field
 
+- 🖍️ Hobby is to code💻
+
 <img align="right" alt="codingisfun" width= 450 src="https://github.com/Yuheshpandian/Yuheshpandian/blob/fea42208dde01e7ab3c38ed51e06ca16e4d306af/pngaaa.com-1523849.png">
 
 <img align="center" alt="codingisfun" width= 650 src="https://github.com/Yuheshpandian/Yuheshpandian/blob/a2acb30d171cc226a597a5e07ada89c4680cf201/programmer-icon.png">
 
 # ABOUT ME
+
 # Hi👋  i'm yuhesh pandian a young boy 👦 from Tamil Nadu,India. Im very interested in *Programming* and learning new things about the world 🌎 and the universe that explains the reason why i'm curious in learning about *Science* 🔭 . My interest is not only ***Programming*** i'm also much interested to learn about stuff related to **Technology**. 💻 I was informed about ***CODING*** when I was 12 years old(in 2022). First I thought it is a complicated stuff and it's not for me,but later I understood that one could do magics 🪄 with computer with just few lines of code using a programming language. As a newbie I searched a lot about programming and programming language 🖥️ and decided to learn one. I surfed through internet 📶 about which programming language best suits for beginner and learnt that *Python* was the easiest. Then I watched many tutorials 🎥 in youtube and finnaly programmed my 1️⃣ first code and with no suprise it was ***HELLO WORLD***. thats how my coding journey began. Now i'm learning many more things with the same hype and eager. I hope programming would help me in future and thats why I opened an accont in *GITHUB* .
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/pandias coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pandia's coding" height="30" width="40" /></a>
 </p>
 
-MOST VIEWED YOUTUBE VIDEO
+MOST VIEWED YOUTUBE VIDEO:
 https://youtu.be/Nj-LBn3ziuI
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 
 ### STATUS
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
