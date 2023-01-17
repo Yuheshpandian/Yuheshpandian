@@ -41,8 +41,6 @@
 <a href="mailto:yuheshpandian@gmail.com" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="pandia's coding" height="30" width="40" /></a>
 </p><img src="https://avatars.githubusercontent.com/u/11960354?v=4" align="left" width=40 height=40 />
 
-
-
 </br></br>
 
 MOST VIEWED YOUTUBE VIDEO:
@@ -55,7 +53,6 @@ https://youtu.be/Nj-LBn3ziuI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="left" width=40 height=40 /><img src="https://img.icons8.com/fluency/2x/sublime-text.png" align="left" width=40 height=40 />
 
 </br></br>
-
 
 # STATUS
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
