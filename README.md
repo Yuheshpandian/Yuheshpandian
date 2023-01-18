@@ -26,6 +26,8 @@
 
 - 🖍️ My Hobby is to code💻
 
+- ▶️ I learn a lot irom internet 📶
+
 
 <img align="right" alt="codingisfun" width= 450 src="https://github.com/Yuheshpandian/Yuheshpandian/blob/fea42208dde01e7ab3c38ed51e06ca16e4d306af/pngaaa.com-1523849.png">
 
@@ -73,8 +75,6 @@ https://youtu.be/Nj-LBn3ziuI
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuheshpandian&label=Profile%20views&color=0e75b6&style=flat" alt="yuheshpandian" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANKS+FOR+VISITING+😄;&color=7E3ACECE&size=30&center=true&width=500&height=100"></a>
 </p>
-
