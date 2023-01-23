@@ -18,15 +18,15 @@
 
 - 💬 Ask me about **Coding**
 
-- 📫 How to reach me **yuheshpandian@gmail.com**
+- 📫 How to reach me `yuheshpandian@gmail.com`
 
 - ⚡ Fun fact **I'm funny 😂**
 
-- 👨‍💻 Aim to achieve in tech field
+- 👨‍💻 Aim to achieve in **tech field**
 
 - 🖍️ My Hobby is to code💻
 
-- ▶️ I learn a lot irom internet 📶
+- ▶️ I learn a lot from internet 📶
 
 
 <img align="right" alt="codingisfun" width= 450 src="https://github.com/Yuheshpandian/Yuheshpandian/blob/fea42208dde01e7ab3c38ed51e06ca16e4d306af/pngaaa.com-1523849.png">
