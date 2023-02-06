@@ -42,23 +42,22 @@
 <a href="https://www.youtube.com/@pandias_coding" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pandia's coding" height="30" width="40" /></a></p>
 <a href="mailto:yuheshpandian@gmail.com" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yuheshpandian" target="blank"><img align="left" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="code chef" height="30" width="40" /></a>
-
-
 <a href="https://stackoverflow.com/users/21027178/yuhesh-pandian" target="blank"><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaH_aEbQRByxWC_xtuFy1AlMZVDm8w7IS99jZsZE8LoAyWqqBoTopPj5zHa4B0485AhE&usqp=CAU" alt="pandia's coding" height="40" width="40" /></a>
 </br></br>
 
-MOST VIEWED YOUTUBE VIDEO:
+`MOST VIEWED YOUTUBE VIDEO:`
 https://youtu.be/Nj-LBn3ziuI
 
-# LANGUAGES
+# *LANGUAGES*
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# TOOLS
+# *TOOLS*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="left" width=40 height=40 /><img src="https://img.icons8.com/fluency/2x/sublime-text.png" align="left" width=40 height=40 />
 
 </br></br>
+</br></br>
 
-# STATUS
+# ***STATUS***
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=radical" alt="yuheshpandian" /></p>
@@ -77,6 +76,7 @@ https://youtu.be/Nj-LBn3ziuI
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuheshpandian&label=Profile%20views&color=0e75b6&style=flat" alt="yuheshpandian" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</br></br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANKS+FOR+VISITING+😊;&color=7E3ACECE&size=30&center=true&width=500&height=100"></a>
 </p>
