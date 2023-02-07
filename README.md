@@ -69,7 +69,7 @@ https://youtu.be/Nj-LBn3ziuI
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuheshpandian&theme=radical&margin-w=10" alt="yuheshpandian" /></a> </p>
 
-# REPO THAT I FEEL PROUD
+# REPO THAT I FEEL PROUD OF
 <a href="https://github.com/Yuheshpandian/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuheshpandian&repo=PY-code_repo&theme=radical" />
 </a>
