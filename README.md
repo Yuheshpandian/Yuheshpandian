@@ -70,7 +70,7 @@ https://youtu.be/Nj-LBn3ziuI
 
 # REPO THAT I FEEL PROUD
 <a href="https://github.com/Yuheshpandian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuheshpandian&repo=PY-code_repo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuheshpandian&repo=PY-code_repo&theme=radical" />
 </a>
 
 </br></br>
