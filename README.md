@@ -61,7 +61,7 @@ https://youtu.be/Nj-LBn3ziuI
 # ***STATUS***
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=transparent" alt="yuheshpandian" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=transparent" alt="yuheshpandian" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=radical" alt="yuheshpandian" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuheshpandian&theme=radical" alt="yuheshpandian" /></p>
 
