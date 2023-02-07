@@ -55,7 +55,6 @@ https://youtu.be/Nj-LBn3ziuI
 # *TOOLS*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="left" width=40 height=40 /><img src="https://img.icons8.com/fluency/2x/sublime-text.png" align="left" width=40 height=40 />  
 
-
 </br></br>
 </br></br>
 
