@@ -1,4 +1,5 @@
 <img align='center' alt=banner width=2500 src='https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png'>
+</br></br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HELLO+WORLD,;I'm+YUHESH+PANDIAN.;I+love+GITHUB.;I+love+learning.;I+like+spreading+my+talents.;LET'S+HAVE+FUN&size=30&center=true&width=500&height=100"></a>
