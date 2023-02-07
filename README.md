@@ -34,9 +34,9 @@
 
 # ABOUT ME
 
-### Hi👋  i'm yuhesh pandian a juvenile boy 👦 from Tamil Nadu,India. Im very riveted in *Programming* and learning new stuff about the world 🌎 and the universe that explains the reason why i'm curious in learning about **Science** 🔭 . My interest is not only ***Programming*** i'm also much interested to learn about stuff related to **Technology**. 💻 I was informed about ***CODING*** when I was 12 years old(in 2022). First I thought it is a complicated stuff and it's not for me,but later I understood that one could do magics 🪄 with computer with just few lines of code using a programming language. As a newbie I searched a lot about programming and programming language 🖥️ and decided to learn one. I surfed through internet 📶 about which programming language best suits for beginner and learnt that *Python* was the easiest. Then I watched many tutorials 🎥 in youtube and finally programmed my 1️⃣ first code and with no amazement it was ***HELLO WORLD***. thats how my coding journey began. Now i'm learning many more things with the same hype and eager. I hope programming would help me in future and thats why I created an account in *GITHUB* .
+### ***Hi👋  i'm yuhesh pandian a juvenile boy 👦 from Tamil Nadu,India. Im very riveted in *Programming* and learning new stuff about the world 🌎 and the universe that explains the reason why i'm curious in learning about **Science** 🔭 . My interest is not only ***Programming*** i'm also much interested to learn about stuff related to **Technology**. 💻 I was informed about ***CODING*** when I was 12 years old(in 2022). First I thought it is a complicated stuff and it's not for me,but later I understood that one could do magics 🪄 with computer with just few lines of code using a programming language. As a newbie I searched a lot about programming and programming language 🖥️ and decided to learn one. I surfed through internet 📶 about which programming language best suits for beginner and learnt that *Python* was the easiest. Then I watched many tutorials 🎥 in youtube and finally programmed my 1️⃣ first code and with no amazement it was ***HELLO WORLD***. thats how my coding journey began. Now i'm learning many more things with the same hype and eager. I hope programming would help me in future and thats why I created an account in *GITHUB* .***
 
-<h3 align="left">Connect with me:</h3>
+# **Connect with me**
 <p align="left">
 <a href="https://www.youtube.com/@pandias_coding" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pandia's coding" height="30" width="40" /></a></p>
 <a href="mailto:yuheshpandian@gmail.com" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
@@ -47,7 +47,7 @@
 `MOST VIEWED YOUTUBE VIDEO:`
 https://youtu.be/Nj-LBn3ziuI
 
-# *LANGUAGES*
+# *LANGUAGES I KNOW*
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 # *TOOLS*
