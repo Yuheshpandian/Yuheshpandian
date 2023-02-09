@@ -1,4 +1,4 @@
-<img align='center' alt=banner width=2500 src='https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png'>
+<img align='center' alt=banner width=2700 src='https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png'>
 </br></br>
 
 <p align="center">
@@ -59,18 +59,25 @@ https://youtu.be/Nj-LBn3ziuI
 </br></br>
 </br></br>
 
-# ***STATUS***
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuheshpandian&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuheshpandian" /></p>
+# ***MY STATUS***
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuheshpandian&show_icons=true&locale=en&theme=radical" alt="yuheshpandian" /></p>
+<div align="center">
+  
+  [![Yuhesh's github stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&show_icons=true&theme=radical)](https://github.com/rajaniraiyn?tab=repositories)
+  ![Yuhesh's Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuheshpandian&theme=radical&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+  ![Yuhesh's Trophies](https://github-profile-trophy.vercel.app/?username=Yuheshpandian&no-frame=true&margin-w=10&theme=radical)
+  ![Yuhesh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuheshpandian&theme=radical)
+  
+  
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuheshpandian&theme=radical" alt="yuheshpandian" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuheshpandian&theme=radical&margin-w=10" alt="yuheshpandian" /></a> </p>
-
-# REPO THAT I FEEL PROUD OF
+# SOME OF MY REPOS
 <a href="https://github.com/Yuheshpandian/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuheshpandian&repo=PY-code_repo&theme=radical" />
+</a>
+<a href="https://github.com/Yuheshpandian/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuheshpandian&repo=PYNOTEPAD&theme=radical" />
 </a>
 
 </br></br>
