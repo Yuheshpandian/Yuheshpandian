@@ -63,13 +63,13 @@ https://youtu.be/Nj-LBn3ziuI
 
 <div align="center">
   
-  ![Yuhesh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuheshpandian&theme=radical)
+  ![Yuhesh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuheshpandian&layout=compact&theme=radical&hide_border=true)
   
-  [![Yuhesh's github stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Yuheshpandian?tab=repositories)
+  [![Yuhesh's github stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&show_icons=true&theme=radical&hide_border=true&ring_color=#000000)](https://github.com/Yuheshpandian?tab=repositories)
   
-  ![Yuhesh's Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuheshpandian&theme=radical&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+  ![Yuhesh's Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuheshpandian&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
   
-  ![Yuhesh's Trophies](https://github-profile-trophy.vercel.app/?username=Yuheshpandian&no-frame=true&margin-w=10&theme=radical)
+  ![Yuhesh's Trophies](https://github-profile-trophy.vercel.app/?username=Yuheshpandian&no-frame=true&margin-w=10&theme=radical&no-bg=true)
   
   
   
