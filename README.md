@@ -75,8 +75,6 @@ https://youtu.be/Nj-LBn3ziuI
   
 </div>
 
-
-
 </br></br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img alt="img2" align="right" src="https://education.github.com/assets/experience/01/virtual-event-kit-icon-37a665f41a85865fe51a9db5c9b050f4bdc684d42b379e80688ec078e11a6114.png">
