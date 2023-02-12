@@ -76,13 +76,6 @@ https://youtu.be/Nj-LBn3ziuI
 </div>
 
 
-# SOME OF MY REPOS
-<a href="https://github.com/Yuheshpandian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuheshpandian&repo=PY-code_repo&theme=radical" />
-</a>
-<a href="https://github.com/Yuheshpandian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuheshpandian&repo=MORSE_CODER&theme=radical" />
-</a>
 
 </br></br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
