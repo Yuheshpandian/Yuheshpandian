@@ -1,4 +1,4 @@
-<img align='center' alt=banner width=2700 src='https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png'>
+<img align='center' alt=banner width=2000 src='https://github.com/Yuheshpandian/Yuheshpandian/blob/3c320ca4025d24e9557ce4acc6318858070e64e8/yuhesh%20pandian.png'>
 </br></br>
 
 <p align="center">
@@ -79,7 +79,6 @@ https://youtu.be/Nj-LBn3ziuI
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img alt="img2" align="right" src="https://education.github.com/assets/experience/01/virtual-event-kit-icon-37a665f41a85865fe51a9db5c9b050f4bdc684d42b379e80688ec078e11a6114.png">
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Yuheshpandian/PY-code_repo?color=%23056886&style=plastic">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Yuheshpandian?style=plastic">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Yuheshpandian/PY-code_repo?style=plastic">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Yuheshpandian?style=plastic">
