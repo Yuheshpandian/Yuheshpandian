@@ -43,7 +43,6 @@
 <p align="left">
 <a href="https://www.youtube.com/@pandias_coding" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pandia's coding" height="30" width="40" /></a></p>
 <a href="mailto:yuheshpandian@gmail.com" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yuheshpandian" target="blank"><img align="left" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="code chef" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21027178/yuhesh-pandian" target="blank"><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaH_aEbQRByxWC_xtuFy1AlMZVDm8w7IS99jZsZE8LoAyWqqBoTopPj5zHa4B0485AhE&usqp=CAU" alt="pandia's coding" height="40" width="40" /></a>
 </br></br>
 
