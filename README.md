@@ -40,21 +40,57 @@
 ### ***Hi👋  i'm yuhesh pandian a juvenile boy 👦 from Tamil Nadu,India. Im very riveted in *Programming* and learning new stuff about the world 🌎 and the universe that explains the reason why i'm curious in learning about **Science** 🔭 . My interest is not only ***Programming*** i'm also much interested to learn about stuff related to **Technology**. 💻 I was informed about ***CODING*** when I was 12 years old(in 2022). First I thought it is a complicated stuff and it's not for me,but later I understood that one could do magics 🪄 with computer with just few lines of code using a programming language. As a newbie I searched a lot about programming and programming language 🖥️ and decided to learn one. I surfed through internet 📶 about which programming language best suits for beginner and learnt that *Python* was the easiest. Then I watched many tutorials 🎥 in youtube and finally programmed my 1️⃣ first code and with no amazement it was ***HELLO WORLD***. thats how my coding journey began. Now i'm learning many more things with the same hype and eager.***
 
 # **Connect with me**
-<p align="left">
-<a href="https://www.youtube.com/@pandias_coding" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pandia's coding" height="30" width="40" /></a></p>
-<a href="mailto:yuheshpandian@gmail.com" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21027178/yuhesh-pandian" target="blank"><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaH_aEbQRByxWC_xtuFy1AlMZVDm8w7IS99jZsZE8LoAyWqqBoTopPj5zHa4B0485AhE&usqp=CAU" alt="pandia's coding" height="40" width="40" /></a>
+<div align="center">
+  <a href="https://www.codechef.com/users/yuheshpandian"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
+  <a href="https://codepen.io/Yuheshpandian"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://github.com/Yuheshpandian/Yuheshpandian/" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/21027178/yuhesh-pandian"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCzEQOFTMjIh7K7V1aPS3d0A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  
+</div>
 </br></br>
 
-`MOST VIEWED YOUTUBE VIDEO:`
-https://youtu.be/Nj-LBn3ziuI
 
-# *LANGUAGES I KNOW*
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-# *TOOLS I'M USING*
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="left" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="left" width=40 height=40 /><img src="https://img.icons8.com/fluency/2x/sublime-text.png" align="left" width=40 height=40 />  
-
+# Tech I use
+<div align="center">
+  <h2> Languages</h2>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+</br></br>
+<div align="center">
+  <h2>IDE</h2>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+</div>
+</br></br>
+<div align="center">
+  <h2>OS</h2>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
+</div>
+</br></br>
+<div align="center">
+  <h2>FRAMEWORKS AND LIBRARIES</h2>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+</div>
+</br></br>
+<div align="center">
+  <h2>CLOUD</h2>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+  
+</div>
+</br></br>
+<div align="center">
+  <h2>designer</h2>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  
+</div>
 </br></br>
 </br></br>
 
@@ -82,7 +118,7 @@ https://youtu.be/Nj-LBn3ziuI
 
 </br></br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img alt="img2" align="right" src="https://education.github.com/assets/experience/01/virtual-event-kit-icon-37a665f41a85865fe51a9db5c9b050f4bdc684d42b379e80688ec078e11a6114.png">
+
 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Yuheshpandian?style=plastic">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Yuheshpandian/PY-code_repo?style=plastic">
