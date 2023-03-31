@@ -107,9 +107,11 @@
 </br></br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yuheshpandian&label=Profile%20views&color=0e75b6&style=flat" alt="yuheshpandian" /> </p>
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=Yuheshpandian&label=PROFILE+VIEWS)
+  
+</div>
 
 </br></br>
 
