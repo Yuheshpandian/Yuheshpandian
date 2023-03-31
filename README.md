@@ -1,4 +1,4 @@
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HELLO+WORLD.;I+love+GITHUB.;I+love+learning.;LET'S+HAVE+FUN.&size=30&center=true&width=500&height=100"></a>
 </p>
@@ -22,8 +22,6 @@
 - 📫 How to reach me `yuheshpandian@gmail.com`.
 
 - ⚡ Fun fact **I'm funny 😂**.
-
-
 
 
 # ABOUT ME
@@ -118,3 +116,5 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANKS+FOR+VISITING+😊;&color=7E3ACECE&size=30&center=true&width=500&height=100"></a>
 </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
