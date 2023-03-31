@@ -28,7 +28,7 @@
 
 # ABOUT ME
 
-### ***Hi👋  i'm yuhesh pandian a juvenile boy 👦 from Tamil Nadu,India. Im very riveted in *Programming* and learning new stuff about the world 🌎. 💻 I was informed about ***CODING*** when I was 12 years old(in 2022). First I thought it is a complicated stuff and it's not for me,but later I understood that one could do magics 🪄 with computer with just few lines of code using a programming language. As a newbie I searched a lot about programming and programming language 🖥️ and decided to learn one. I surfed through internet 📶 about which programming language best suits for beginner and learnt that *Python* was the easiest. Then I watched many tutorials 🎥 in youtube and finally programmed my 1️⃣ first code and with no amazement it was ***HELLO WORLD***. thats how my coding journey began.***
+### &nbsp;&nbsp;&nbsp; ***Hi👋 everyone i'm YUHESH PANDIAN a young programmer from Tamil Nadu, India🗺️. I'm currently learning more & more about technology⚙️. I was informed about programming👨‍💻 when I was 12( @2021 ). Now I'm taking steps👣 to advance my programming skills.***
 <br></br>
 </br></br>
 
