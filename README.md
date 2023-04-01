@@ -75,6 +75,7 @@
 </br></br>
 </br></br>
 
+
 # ***MY STATUS***
 
 <div align="center">
@@ -85,8 +86,7 @@
   
   ![Yuhesh's Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuheshpandian&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
   
-  ![Yuhesh's Trophies](https://github-profile-trophy.vercel.app/?username=Yuheshpandian&no-frame=true&margin-w=10&theme=radical&no-bg=true)
-  
+  ![Yuhesh's Trophies](https://github-profile-trophy.vercel.app/?username=Yuheshpandian&no-frame=true&margin-w=10&theme=radical&no-bg=true)  
   
   
 </div>
