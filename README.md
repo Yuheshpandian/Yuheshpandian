@@ -88,8 +88,8 @@
   
   ![Yuhesh's Trophies](https://github-profile-trophy.vercel.app/?username=Yuheshpandian&no-frame=true&margin-w=10&theme=radical&no-bg=true)  
   
-  
 </div>
+
 </br></br>
 </br></br>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=Yuheshpandian&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Yuheshpandian&label=👁+PROFILE+VIEWS)
   
 </div>
 
