@@ -67,7 +67,7 @@
 </div>
 
 <div align="center">
-  <h2>designer</h2>
+  <h2>DESIGNER</h2>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   
 </div>
