@@ -21,7 +21,7 @@
 
 - 📫 How to reach me `yuheshpandian@gmail.com`.
 
-- ⚡ Fun fact **I'm funny 😂**.
+- 😀 I relax with help of youtube
 
 
 # ABOUT ME
