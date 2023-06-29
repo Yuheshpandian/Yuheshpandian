@@ -24,6 +24,8 @@
 - 😀 I relax with help of youtube
 
 
+
+
 # ABOUT ME
 
 ### &nbsp;&nbsp;&nbsp; ***Hi👋 everyone i'm YUHESH PANDIAN a young programmer from Tamil Nadu, India🗺️. I'm currently learning more & more about technology⚙️. I was informed about programming👨‍💻 when I was 12( @2021 ). Now I'm taking steps👣 to advance my programming skills.***
@@ -114,8 +116,6 @@
 </div>
 
 </br></br>
-
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANKS+FOR+VISITING.;&color=7E3ACECE&size=30&center=true&width=500&height=100"></a>
