@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HELLO+WORLD.;I+love+GITHUB.;I+love+learning.;LET'S+HAVE+FUN.&size=30&center=true&width=500&height=100"></a>
 </p>
 
-
 <h1 align="center">Hi  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="60px" align="middle" /> , I'm Yuhesh pandian.</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
