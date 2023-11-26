@@ -1,6 +1,6 @@
 
 <div align="center"> 
-<h1> Hello, I'm Yuhesh</h1>
+<h1> Hello, I'm Yuhesh  <img src="Microsoft-Fluentui-Emoji-3d-Waving-Hand-3d-Default.512.png" width=45px></h1>
 <h2>A Young passionate programmer</h2>
 <p>Eager and enthusiastic programmer with sturdy belief in futuristic innovations and projects. Backer of Open Source Projects and contributions to them.</p>
 </div>
