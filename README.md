@@ -30,9 +30,6 @@
 
   ![Yuhesh Github Stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true) 
 
-</div>
-
-<div align="center>
 
   ![Yuhesh Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuheshpandian&theme=nightowl&hide_border=true)
 
