@@ -26,12 +26,16 @@
 
 <h1>↗️ GitHub Stats:</h1>
 
-<div align="center>  
+<center>
 
-  ![Yuhesh Github Stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true) 
-  ![Yuhesh Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuheshpandian&theme=nightowl&hide_border=true)
+  
+![Yuhesh Github Stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true) 
+![Yuhesh Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuheshpandian&theme=nightowl&hide_border=true)
+  
+</center> 
 
-</div>
+  
+
 
 <div align="center">
   
