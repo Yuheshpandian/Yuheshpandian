@@ -10,6 +10,7 @@
 # 🤘🏻 About Me:
 - 🔭 I’m currently working on - New and interesting Projects. 🆕<br>
 - 🌱 I’m currently learning - Python and Html. 💻<br>
+- 😮 I'm currently interested in - Web Development 🖥️
 - 👯 I’m looking to collaborate with- Eager ones to create amazing ideas.<br>
 - 💬 Ask me about - Python, Science and Motivational Quotes.🔬<br>
 - 🎯 Permanent Goal - Achieve the heights and to optimize other's lifestyle. <br>
