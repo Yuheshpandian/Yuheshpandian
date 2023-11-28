@@ -20,13 +20,6 @@
 - 🎯 Permanent Goal - Achieve the heights and to optimize other's lifestyle. <br>
 - ⚡ Fun fact - I'm good at witty jokes. 😅
 
-<br>
-
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YuheshPandian) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pandias_coding) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Yuheshpandian) 
-
 
 <br>
 
@@ -56,12 +49,17 @@
 
 <br>
 
+<a href="https://visitcount.itsvg.in" align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Yuheshpandian&label=Profile%20Views&color=6&icon=5&pretty=false" />
+</a>
 
 ---
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Yuheshpandian&label=Profile%20Views&color=6&icon=5&pretty=false" />
-</a>
+
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YuheshPandian) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pandias_coding) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Yuheshpandian) 
 
 
 
