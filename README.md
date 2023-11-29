@@ -7,10 +7,6 @@
 </details>
 </div>
 
-<br>
-<br>
-
-
 ## 🤘🏻 About Me:
 - 🔭 I’m currently working on - New and interesting Projects. 🆕<br>
 - 🌱 I’m currently learning - Python and Html. 💻<br>
