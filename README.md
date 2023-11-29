@@ -1,5 +1,5 @@
 
-
+<div align="center">
 <details>
   <summary><h2>A Young Passionate Programmer</h2></summary>
   <description>with sturdy belief in futuristic innovations and projects. Backer of Open Source Projects and contributions to them. Saavy when comes to acquiring new information or knowledge. </description>
