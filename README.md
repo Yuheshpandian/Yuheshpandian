@@ -1,4 +1,4 @@
----
+
 <div align="center"> 
 <h1> Hello, I'm <em>Yuhesh</em> <img src="Microsoft-Fluentui-Emoji-3d-Waving-Hand-3d-Default.512.png" width=45px></h1>
 <details>
@@ -6,6 +6,8 @@
   <description>with sturdy belief in futuristic innovations and projects. Backer of Open Source Projects and contributions to them. Saavy when comes to acquiring new information or knowledge. </description>
 </details>
 </div>
+
+---
 
 ## 🤘🏻 About Me:
 - 🔭 I’m currently working on - New and interesting Projects. 🆕<br>
