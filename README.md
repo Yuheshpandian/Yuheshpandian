@@ -34,7 +34,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-<div></div>
+
+</div>
 <br>
 
 ## ↗️ GitHub Stats:
@@ -48,7 +49,6 @@
   
   
   ![Yuhesh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuheshpandian&theme=radical)
-    
 </div>
 
 <br>
