@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h1> <b>Hi! I'm Yuhesh.</b> <img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
+<h1> <b>Hi! I'm Yuhesh.</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
 <details>
   <summary><h2>A Young Passionate Programmer</h2></summary>
   <description>with sturdy belief in futuristic innovations and projects. Backer of Open Source Projects and contributions to them. Saavy when comes to acquiring new information or knowledge. </description>
@@ -19,7 +19,6 @@
 - 🎯 Permanent Goal - Achieve the heights and to optimize other's lifestyle. <br>
 - ⚡ Fun fact - I'm good at witty jokes. 😅
 
-
 <br>
 
 ## ⚙️ Tech Stack:
@@ -33,7 +32,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
 
 </div>
 <br>
@@ -60,17 +58,8 @@
   
 </div>
 
-
-
 ---
-
-
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YuheshPandian) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pandias_coding) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Yuheshpandian) 
-
-
-
-
-
