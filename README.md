@@ -36,7 +36,7 @@
   
 <div align="center">
 
-  ![Yuhesh's Trophies](https://github-profile-trophy.vercel.app/?username=Yuheshpandian&rank=-B&column=-1&no-frame=true&margin-w=10&theme=radical)
+ 
   
   [![Yuhesh's github stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&show_icons=true&theme=radical&margin=false)](https://github.com/rajaniraiyn?tab=repositories)
   ![yuhesh's Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuheshpandian&theme=radical&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
