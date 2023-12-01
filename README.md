@@ -48,9 +48,13 @@
 
 <br>
 
+
 <div align="right">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Yuheshpandian&label=Profile%20Views&color=6&icon=5&pretty=false" />
+
+<a href="#">
+
+<b>Back To Top</b>
+
 </a>
   
 </div>
@@ -60,3 +64,10 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YuheshPandian) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pandias_coding) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Yuheshpandian) 
+
+<div align="right">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Yuheshpandian&label=Profile%20Views&color=6&icon=5&pretty=false" />
+</a>
+  
+</div>
