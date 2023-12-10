@@ -56,8 +56,8 @@
   [![Yuhesh's github stats](https://github-readme-stats.vercel.app/api?username=Yuheshpandian&show_icons=true&theme=radical&margin=false)](https://github.com/Yuheshpandian?tab=repositories)
   ![yuhesh's Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuheshpandian&theme=radical&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
   
-  
   ![Yuhesh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuheshpandian&theme=radical)
+  
 </div>
 
 <br>
@@ -69,9 +69,14 @@
 </div>
 
 
+
+
 ## Connect With Me:
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21027178/yuhesh-pandian) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pandias_coding) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Yuheshpandian) 
 [![Discussions](https://img.shields.io/badge/Discussions-8A2BE2?style=for-the-badge)](https://github.com/Yuheshpandian/Yuheshpandian/discussions)
+
+
+
