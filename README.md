@@ -8,7 +8,7 @@
 
  
 ---
-
+<!--About me section-->
 ## 🤘🏻 About Me:
 - 🔭 I’m currently working on - New and interesting Projects. 🆕<br>
 - 🌱 I’m currently learning - HTML & CSS. 💻<br>
@@ -19,7 +19,7 @@
 
 <br>
 
-
+<!--Tech stack section-->
 ## ⚙️ Tech Stack:
 
 <div align="center">
@@ -52,6 +52,7 @@
 </div>
 <br>
 
+<!--Stats section-->
 ## ↗️ GitHub Stats:
   
 <div align="center">
@@ -74,7 +75,7 @@
 </div>
 
 
-
+<!--Connect with me section-->
 ## 🔗Connect With Me:
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21027178/yuhesh-pandian) 
@@ -83,4 +84,3 @@
 [![Discussions](https://img.shields.io/badge/Discussions-8A2BE2?style=for-the-badge)](https://github.com/Yuheshpandian/Yuheshpandian/discussions)
 
 ---
-
