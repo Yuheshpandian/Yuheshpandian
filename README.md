@@ -1,6 +1,7 @@
+<!-- Code Starts Here!-->
 <div align="center">
 <h1> <b>Hi! I'm Yuhesh.</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
-<details>
+<details><!--A short Description about me-->
   <summary><h2>A Young Passionate Programmer</h2></summary>
   <description>with sturdy belief in futuristic innovations and projects. Backer of Open Source Projects and contributions to them. Saavy when comes to acquiring new information or knowledge. </description>
 </details>
@@ -84,3 +85,4 @@
 [![Discussions](https://img.shields.io/badge/Discussions-8A2BE2?style=for-the-badge)](https://github.com/Yuheshpandian/Yuheshpandian/discussions)
 
 ---
+<!-- Code Ends Here -->
