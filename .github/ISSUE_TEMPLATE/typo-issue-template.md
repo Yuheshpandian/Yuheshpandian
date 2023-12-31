@@ -1,7 +1,7 @@
 ---
 name: Typo Issue Template
 about: An issue opened for correct ing the types in the README.md
-title: ''
+title: 'Typo in Readme'
 labels: ''
 assignees: ''
 
