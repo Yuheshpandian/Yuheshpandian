@@ -8,7 +8,7 @@
 ---
 <!--About me section-->
 ## 🤘🏻 About Me:
-- 🔭 I’m currently working on - New and interesting Projects. 🆕<br>
+- 🔭 I’m currently working on - Miniature Web Projects. 🆕<br>
 - 🌱 I’m currently learning - CSS. 💻<br>
 - 😮 I'm currently interested in - Web Developement
 - 💬 Ask me about - Python, Science and Motivational Quotes.🔬<br>
