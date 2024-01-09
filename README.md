@@ -10,9 +10,9 @@
 ## 🤘🏻 About Me:
 - 🔭 I’m currently working on - Miniature Web Projects. 🆕<br>
 - 🌱 I’m currently learning - CSS. 💻<br>
-- 😮 I'm currently interested in - Web Developement
-- 💬 Ask me about - Python, Science and Motivational Quotes.🔬<br>
-- 🎯 Permanent Goal - Achieve the heights and to optimize other's lifestyle. <br>
+- 😮 I'm currently interested in - Web Developement and internet.
+- 💬 Ask me about - Web and Motivational Quotes.🔬<br>
+- 🎯 Mission - Achieve the heights and to optimize other's lifestyle. <br>
 - ⚡ Fun fact - I'm good at witty jokes. 😅
 
 <br>
