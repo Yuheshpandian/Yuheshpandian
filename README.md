@@ -1,7 +1,7 @@
 <!-- Code Starts Here!-->
 <div align="center">
 <h1> <b>Hi! I'm Yuhesh</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
-<h2>Passionate Programmer and Web Enthusiast </h2>
+<h2>**Passionate Programmer** and **Web Enthusiast** </h2>
 </div>
 
  
@@ -9,11 +9,11 @@
 <!--About me section-->
 ## 🤘🏻 About Me:
 - 🔭 I’m currently working on - Miniature Web Projects. 🆕<br>
-- 🌱 I’m currently learning - CSS. 💻<br>
-- 😮 I'm currently interested in - Web Developement and internet.
-- 💬 Ask me about - Web and Motivational Quotes.🔬<br>
-- 🎯 Mission - Achieve the heights and to optimize other's lifestyle. <br>
-- ⚡ Fun fact - I'm good at witty jokes. 😅
+- 🌱 I’m currently learning - **CSS**. 💻<br>
+- 😮 I'm currently interested in - Web Developement and how **Internet** works.
+- 💬 Ask me about - **Web Development** and **Motivational Quotes**.🔬<br>
+- 🎯 Mission - Achieve the heights and to optimize other's ***lifestyle***. <br>
+- ⚡ Fun fact - I'm good at ***witty jokes***. 😅
 
 <br>
 
@@ -23,33 +23,33 @@
 <div align="center">
 <!----------------------------->
   
-#### Languages  
+#### **Languages**  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!----------------------------->
-#### IDEs/Code Editors
+#### **IDEs/Code Editors**
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!----------------------------->
 
-#### Version Control
+#### **Version Control**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!----------------------------->
 
-#### Services/Hosting
+#### **Services/Hosting**
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 <!----------------------------->
 
-#### Design
+#### **Design**
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
 
