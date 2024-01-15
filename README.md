@@ -11,10 +11,10 @@
 ---
 <!--About me section-->
 ## 🤘🏻 About Me:
-- 🔭 **I’m currently working on** - ***Miniature Web Projects***. 🆕<br>
+- 🔬 **I’m currently working on** - ***Miniature Web Projects***. 🆕<br>
 - 🌱 **I’m currently learning** - ***CSS***. 💻<br>
 - 😮 **I'm currently interested in** - Web Developement and how ***Internet*** works.
-- 💬 **Ask me about** - ***Web Development*** and ***Motivational Quotes***.🔬<br>
+- 💬 **Ask me about** - ***Web Development*** and ***Motivational Quotes***.🔭<br>
 - 🎯 **Mission** - Achieve the heights and to optimize other's ***lifestyle***. <br>
 - ⚡ **Fun fact** - I'm good at ***witty jokes***. 😅
 
