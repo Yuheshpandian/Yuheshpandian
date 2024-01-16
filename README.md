@@ -15,13 +15,13 @@
 - 🌱 **I’m currently learning** - ***CSS***. 💻<br>
 - 😮 **I'm currently interested in** - Web Developement and how ***Internet*** works.
 - 💬 **Ask me about** - ***Web Development*** and ***Motivational Quotes***.🔭<br>
-- 🎯 **Mission** - Achieve the heights and to optimize other's ***lifestyle***. <br>
+- 🎯 **Mission** - To achieve the heights and to optimize other's ***lifestyle***. <br>
 - ⚡ **Fun fact** - I'm good at ***witty jokes***. 😅
 
 <br>
 
 <!--Tech stack section-->
-## ⚙️ Tech Stack:
+## ⚙️ **Tech Stack**:
 
 <div align="center">
 <!----------------------------->
@@ -60,7 +60,7 @@
 <br>
 
 <!--Stats section-->
-## ↗️ GitHub Stats:
+## ↗️ **GitHub Stats**:
   
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 
 <!--Connect with me section-->
-## 🔗Connect With Me:
+## 🔗**Connect With Me**:
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21027178/yuhesh-pandian) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pandias_coding) 
