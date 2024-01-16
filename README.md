@@ -3,7 +3,7 @@
  
 <h1> <b>Hi! I'm Yuhesh</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
 
-## **Passionate Programmer** and **Web Enthusiast**
+## ***Passionate Programmer*** and ***Web Enthusiast***
 
 </div>
 
