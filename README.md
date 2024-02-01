@@ -11,7 +11,7 @@
 ---
 <!--About me section-->
 ## 🤘🏻 About Me:
-- 🔬 **I’m currently working on** - ***Miniature Web Projects***. 🆕<br>
+- 🔬 **I’m currently working on** - ***Miniature Github Projects***. 🆕<br>
 - 🌱 **I’m currently learning** - ***CSS*** and delving deep into ***HTML & PYTHON***. 💻<br>
 - 😮 **I'm currently interested in** - *Web Developement* and how ***Internet*** works.
 - 💬 **Ask me about** - ***Web Development*** and ***Motivational Quotes***.🔭<br>
