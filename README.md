@@ -1,7 +1,7 @@
 <!-- Code Starts Here!-->
 <div align="center">
  
-<h1> <b>Hey there, I go by Yuhesh!</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
+<h1> <b>Hey there, I go by Yuhesh!👋</b>
 
 ## ***Passionate Programmer*** and ***Web Enthusiast***
 
