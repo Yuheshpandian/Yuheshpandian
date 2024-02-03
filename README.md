@@ -1,7 +1,7 @@
 <!-- Code Starts Here!-->
 <div align="center">
  
-<h1> <b>Hello, I'm Yuhesh</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
+<h1> <b>Hey there, I go by Yuhesh!</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
 
 ## ***Passionate Programmer*** and ***Web Enthusiast***
 
@@ -11,12 +11,13 @@
 ---
 <!--About me section-->
 ## 🤘🏻 About Me:
-- 🔬 **I’m currently working on** - ***Miniature Github Projects***. 🆕<br>
-- 🌱 **I’m currently learning** - ***CSS*** and delving deep into ***HTML & PYTHON***. 💻<br>
-- 😮 **I'm currently interested in** - *Web Developement* and how ***Internet*** works.
-- 💬 **Ask me about** - ***Web Development*** and ***Motivational Quotes***.🔭<br>
-- 🎯 **Mission** - To achieve the heights and to optimize other's ***lifestyle***. <br>
-- ⚡ **Fun fact** - I'm good at ***witty jokes***. 😅
+- 🔬 **Current Focus:** Working on Miniature GitHub Projects.
+- 🌱 **Learning:** Exploring the depths of CSS, HTML, and Python.
+- 💬 **Ask me about:** Anything related to Web Development or for a dose of motivational quotes.
+- 🎯 **Mission:** Striving for professional excellence and contributing to a tech-driven lifestyle optimization.
+- ⚡ **Fun Fact:** I possess a knack for crafting witty jokes. 😅
+
+Let's connect and together build a brighter digital future! 🚀
 
 <br>
 
