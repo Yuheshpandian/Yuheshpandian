@@ -1,7 +1,7 @@
 <!-- Code Starts Here!-->
 <div align="center">
  
-<h1> <b>Hey there, I go by Yuhesh!👋</b>
+<h1> <b>👋Hey there, I go by Yuhesh!</b>
 
 ## ***Passionate Programmer*** and ***Web Enthusiast***
 
