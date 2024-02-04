@@ -27,11 +27,11 @@ Let's connect and together build a brighter digital future! 🚀
 <div align="center">
 <!----------------------------->
  
-[![Programming&Markup Languages](https://skillicons.dev/icons?i=python,html,css,md)](https://skillicons.dev)
+[![Programming&Markup Languages](https://skillicons.dev/icons?i=python,html,css,md)](#)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Source control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) 
+[![Source control](https://skillicons.dev/icons?i=git,github)](#)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Source control](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev) 
+[![Source control](https://skillicons.dev/icons?i=vscode,replit)](#)
 
 </div>
 <br>
