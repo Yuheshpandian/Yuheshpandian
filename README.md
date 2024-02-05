@@ -3,7 +3,7 @@
  
 <h1> <b>👋Hey there, I go by Yuhesh!</b>
 
-## ***Passionate Programmer*** and ***Web Enthusiast***
+## **Passionate Programmer** and **Web Enthusiast**
 
 </div>
 
