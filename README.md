@@ -8,7 +8,7 @@
 </div>
 
  
----
+
 <!--About me section-->
 ## 🤘🏻 About Me:
 - 🔬 **Current Focus:** Working on Miniature GitHub Projects.
