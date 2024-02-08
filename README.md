@@ -7,7 +7,6 @@
 
 </div>
 
- 
 
 <!--About me section-->
 ## 🤘🏻 About Me:
@@ -26,6 +25,7 @@ Let's connect and together build a brighter digital future! 🚀
 
 <div align="center">
 <!----------------------------->
+
  
 [![Programming&Markup Languages](https://skillicons.dev/icons?i=python,html,css,md,git,github,vscode,replit,netlify)](#)
 
@@ -64,4 +64,5 @@ Let's connect and together build a brighter digital future! 🚀
 [![Discussions](https://img.shields.io/badge/Discussions-8A2BE2?style=for-the-badge)](https://github.com/Yuheshpandian/Yuheshpandian/discussions)
 
 ---
+
 <!-- Code Ends Here -->
