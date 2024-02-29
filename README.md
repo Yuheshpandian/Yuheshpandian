@@ -27,7 +27,7 @@ Let's connect and together build a brighter digital future! 🚀
 <!----------------------------->
 
  
-[![Programming&Markup Languages](https://skillicons.dev/icons?i=python,html,css,md,git,github,vscode,replit,netlify)](#)
+[![Programming&Markup Languages](https://skillicons.dev/icons?i=python,html,css,md,git,github,vscode,pycharm,replit,netlify)](#)
 
 </div>
 <br>
